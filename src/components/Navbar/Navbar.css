@@ -1,0 +1,32 @@
+ul {
+    margin-right: 50px;
+    display: flex;
+    width: 100%;
+    gap: 50px;
+    list-style: none;
+    justify-content: flex-end;
+}
+
+ul li a{
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #C0A782;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.logo-container {
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}

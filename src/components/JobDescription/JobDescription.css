@@ -1,0 +1,9 @@
+.job-description {
+    position: sticky;
+    top: 10px;
+    background-color: #94A596;
+    border-radius: 60px;
+    border: 1px solid black;
+    padding: 25px;
+    max-height: 75vh;
+}

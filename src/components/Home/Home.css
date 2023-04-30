@@ -1,0 +1,35 @@
+.main {
+    background-image: url(../../images/houses.png);
+    height: 428px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 60px;
+    width: 90%;
+    margin: 25px auto;
+}
+
+.main-container{
+    width: 100%;
+    text-align: center;
+}
+
+.main-container h2 {
+    font-size: 40px;
+    color: white;
+}
+
+.main-container input {
+    height: 50px;
+    width: 50%;
+    border-radius: 60px;
+    padding-left: 10px;
+}
+
+.text-info-container {
+    margin: 25px auto;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
